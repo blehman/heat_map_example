@@ -1,0 +1,39 @@
+rect.bordered {
+  stroke: #E6E6E6;
+  stroke-width:2px;
+}
+
+text.heatmap_cluster_label{
+  font-size: 15pt;
+  font-family: Consolas, courier;
+  fill: #000;
+
+}
+
+text.rectText{
+  font-size: 9pt;
+  font-family: Consolas, courier;
+
+}
+
+text.heatmap_feature_label{
+  font-size: 15pt;
+  font-family: Consolas, courier;
+  fill: #000;
+
+}
+
+
+text.legendText {
+  font-size: 12pt;
+  font-family: Consolas, courier;
+  fill: #aaa;
+}
+
+text.axis-workweek {
+  fill: #000;
+}
+
+text.axis-worktime {
+  fill: #000;
+}
